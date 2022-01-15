@@ -5,7 +5,7 @@ main() {
 
   // String? entrada = stdin.readLineSync();
 
-  const PI = 3.1415;
+  const PI = 3.1415; // Usar const para compilação final para runtime
 
   // print("Informe o raio: ");
   stdout.write("Informe o raio: ");
